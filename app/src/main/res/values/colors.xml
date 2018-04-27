@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="text_color_black_opacity_16">#28000000</color>
+    <color name="app_base_color">#fafafa</color>
+    <color name="actionbar_title_text_color">#cc252525</color>
+    <color name="tw_ic_back_mtrl_color">#3957ac</color>
+</resources>

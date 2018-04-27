@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="actionbar_divider_height">3px</dimen>
+</resources>
